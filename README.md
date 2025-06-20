@@ -23,7 +23,7 @@ pip install cryptography pyOpenSSL idna requests
 Run the script:
 
 ```bash
-python crl-checker.py
+python certificate-revocation-checker.py
 ```
 
 You’ll be prompted to:
